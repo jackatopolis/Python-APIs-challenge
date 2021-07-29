@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-debug.log
-=======
-
-__pycache__/
-config.py
-.DS_Store
->>>>>>> 3ec020d765c89518c9ef0d09ea1169c9a8ee7bc8
-api_keys.py
