@@ -37,4 +37,5 @@ The script creates a heat map that displays the humidity for every city from Wea
   * A max temperature lower than 80 degrees but higher than 70
   * Wind speed less than 10 mph
   * Zero cloudiness
+
 Then the script uses the Google Places API to find the first hotel for each city located within 5000 meters of the coordinates and plots the hotels on top of the humidity heatmap, each with a pin.
